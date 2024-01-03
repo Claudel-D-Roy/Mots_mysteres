@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/Tp4/.vs/Tp4/FileContentIndex
+/Tp4/bin/Debug/netcoreapp3.1
+/Tp4/obj
+/Tp4/.vs/Tp4/v17
